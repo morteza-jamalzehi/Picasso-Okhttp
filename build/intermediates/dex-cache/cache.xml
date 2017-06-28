@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Morteza\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\pre-dexed\debug\gson-2.8.0_31a4f4a3333346ab01e58f1adeb77c4655e45c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Morteza\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_52fcfa19c8366f21fcc52811f55bfdf0536080c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Morteza\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\pre-dexed\debug\okio-1.13.0_cf0022fdfb0eff287d7d398d6e3e31436a12ecfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Morteza\.android\build-cache\1df0b465e09db1126b8bbbeeaaf92b2db9d7b7db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\pre-dexed\debug\classes_a20853935fc4776f7e7ad8410b3cfcf9ff1ab463.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b385674b20077dfe62381ad8294757e9e6a8420c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Morteza\.android\build-cache\fdb306d64769ea67693802db733031fbfcd9ae6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\pre-dexed\debug\classes_f5fd7f145f5bd4b11af9a145a1f5850dd798f749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Morteza\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_93f073bf9453ace5642d0de3fdb61399aa67eeb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3956a4f4a95d81711e609ae56851ee851d752356">
+        <dex dex="E:\BOOKS\Android\Lynda\new\Android and Restful web services\Exercice Files\Ex_Files_Android_Apps_RESTful\Exercise Files\Solutions\Ch06\06_03\Picasso\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_206d022b609bd2d6d94502a11f6a47796b9331f9\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OkHttp-Picasso</string>
+
+
+
+    <string name="pref_display_grid">pref_display_grid</string>
+    <string name="settings">Settings</string>
+    <string name="display_in_grid">Display in grid</string>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+    <string-array
+        name="categories">
+        <item>Salads</item>
+        <item>Starters</item>
+        <item>Entrees</item>
+        <item>Desserts</item>
+        <item>Drinks</item>
+    </string-array>
+</resources>
